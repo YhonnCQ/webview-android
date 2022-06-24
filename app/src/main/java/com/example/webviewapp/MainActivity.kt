@@ -7,7 +7,7 @@ import android.webkit.WebView
 
 class MainActivity : AppCompatActivity() {
 
-    private val direction = "https://levelup.gitconnected.com/"
+    private val direction = "http://10.0.2.2:3000"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
